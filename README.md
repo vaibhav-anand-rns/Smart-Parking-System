@@ -2,6 +2,8 @@
 
 A Smart Parking System designed to streamline urban parking by providing real-time parking availability, smart sensors, and automated booking capabilities. This system aims to reduce traffic congestion, minimize time spent searching for parking, and improve overall efficiency in parking management.
 
+check out the website: https://frontend-mongo-xi.vercel.app/login
+
 📋 Table of Contents
 
 Features
